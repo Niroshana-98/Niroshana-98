@@ -67,6 +67,20 @@
   </tr>
 </table>
 
+### Framework:
+<table>
+  <tr>
+    <th>.Net</th>
+    <th>Next.JS</th>
+    <th>Tailwind CSS</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/net.png" title="SQL" alt="SQL" width="55" height="55"/></td>
+    <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/next.png" title="SQLS" alt="SQLS" width="55" height="55"/></td>
+    <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/telwind.jpeg" title="mongo" alt="mongo" width="55" height="55"/></td>
+  </tr>
+</table>
+
 
 
 </div>

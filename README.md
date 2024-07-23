@@ -35,6 +35,19 @@
 | My SQL | Microsoft SQL Server | MongoDB |
 |----------|----------|----------|
 |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mysql.png" title="SQL"  alt="SQL" width="55" height="55"/> |  <center><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/micro.png" title="SQLS"  alt="SQLS" width="55" height="55"/></center> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mongo.png" title="mongo" alt="mongo" width="55" height="55"/> |
+### Database Management:
+<table>
+  <tr>
+    <th>MySQL</th>
+    <th>Microsoft SQL Server</th>
+    <th>MongoDB</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mysql.png" title="SQL" alt="SQL" width="55" height="55"/></td>
+    <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/micro.png" title="SQLS" alt="SQLS" width="55" height="55"/></td>
+    <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mongo.png" title="mongo" alt="mongo" width="55" height="55"/></td>
+  </tr>
+</table>
 
 </div>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>&nbsp; &nbsp;

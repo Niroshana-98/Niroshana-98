@@ -123,14 +123,9 @@
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=niroshana-98&show_icons=true&theme=vision-friendly-dark">
-  <p><img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=niroshana-98&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="niroshana-98" /></p>
+  <p><img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=niroshana-98&show_icons=true&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark"/></p>
 </p>
- 
 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niroshana-98&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>

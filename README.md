@@ -27,9 +27,9 @@
 |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/c%23.png" title="C#"  alt="C#" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/java.png" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/Python.png" title="Python" alt="Python" width="55" height="55"/> |
 
 ### Web Development:
-| HTML | CSS | JavaScript | PHP |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/HTML.png" title="HTML"  alt="HTML" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/CSS.png" title="CSS"  alt="CSS" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/JavaScript.png" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/php_PNG36.png" title="PHP" alt="PHPt" width="55" height="55"/> |
+| HTML | CSS | JavaScript | PHP | NODE JS |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/HTML.png" title="HTML"  alt="HTML" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/CSS.png" title="CSS"  alt="CSS" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/JavaScript.png" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/php_PNG36.png" title="PHP" alt="PHPt" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/NodeJS.png" title="node" alt="node" width="55" height="55"/> |
 
 </div>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>&nbsp; &nbsp;

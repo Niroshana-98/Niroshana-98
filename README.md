@@ -106,6 +106,137 @@
   </tr>
 </table>
 
+<style>
+  /* General table styling */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+  }
+
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+
+  th {
+    background-color: #f4f4f4;
+  }
+
+  /* Responsive design */
+  @media (max-width: 768px) {
+    table {
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+    th, td {
+      display: inline-block;
+      width: auto;
+    }
+  }
+
+  .table-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .table-container table {
+    flex: 1 1 100%;
+    margin: 10px;
+    max-width: calc(100% - 20px);
+  }
+</style>
+
+<!-- Combined Tables -->
+<div class="table-container">
+  <!-- Programming Languages -->
+  <table>
+    <tr>
+      <th>C#</th>
+      <th>Java</th>
+      <th>Python</th>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/c%23.png" title="C#" alt="C#" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/java.png" title="Java" alt="Java" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/Python.png" title="Python" alt="Python" width="55" height="55"/></td>
+    </tr>
+  </table>
+
+  <!-- Web Development -->
+  <table>
+    <tr>
+      <th>HTML</th>
+      <th>CSS</th>
+      <th>JavaScript</th>
+      <th>PHP</th>
+      <th>Node.js</th>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/HTML.png" title="HTML" alt="HTML" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/CSS.png" title="CSS" alt="CSS" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/JavaScript.png" title="JavaScript" alt="JavaScript" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/php_PNG36.png" title="PHP" alt="PHP" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/NodeJS.png" title="Node.js" alt="Node.js" width="55" height="55"/></td>
+    </tr>
+  </table>
+
+  <!-- Database Management -->
+  <table>
+    <tr>
+      <th>MySQL</th>
+      <th>Microsoft SQL Server</th>
+      <th>MongoDB</th>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mysql.png" title="SQL" alt="SQL" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/micro.png" title="SQLS" alt="SQLS" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mongo.png" title="mongo" alt="mongo" width="55" height="55"/></td>
+    </tr>
+  </table>
+
+  <!-- Framework -->
+  <table>
+    <tr>
+      <th>.Net</th>
+      <th>Next.JS</th>
+      <th>Tailwind CSS</th>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/net.png" title=".Net" alt=".Net" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/next.png" title="Next.JS" alt="Next.JS" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/telwind.jpeg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/></td>
+    </tr>
+  </table>
+
+  <!-- IDEs -->
+  <table>
+    <tr>
+      <th>Visual Studio Code</th>
+      <th>Visual Studio</th>
+      <th>NetBeans</th>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/vs%20code.png" title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/629b71eb7c5cd817694c3227.png" title="Visual Studio" alt="Visual Studio" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/netb.png" title="NetBeans" alt="NetBeans" width="55" height="55"/></td>
+    </tr>
+  </table>
+
+  <!-- Graphic & Multimedia -->
+  <table>
+    <tr>
+      <th>Photoshop</th>
+      <th>Filmora</th>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/photo.png" title="Photoshop" alt="Photoshop" width="55" height="55"/></td>
+      <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/filmora_logo.png" title="Filmora" alt="Filmora" width="55" height="55"/></td>
+    </tr>
+  </table>
+</div>
 
 
 </div>

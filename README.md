@@ -34,7 +34,7 @@
 ### Database Management:
 | My SQL | Microsoft SQL Server | MongoDB |
 |----------|----------|----------|
-|  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/micro.png" title="SQL"  alt="SQL" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mysql.png" title="SQLS"  alt="SQLS" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mongo.png" title="mongo" alt="mongo" width="55" height="55"/> |
+|  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mysql.png" title="SQL"  alt="SQL" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/micro.png" title="SQLS"  alt="SQLS" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mongo.png" title="mongo" alt="mongo" width="55" height="55"/> |
 
 </div>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>&nbsp; &nbsp;

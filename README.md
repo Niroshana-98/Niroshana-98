@@ -17,8 +17,7 @@
 <a href="https://fb.com/pasindu.niroshana.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasindu.niroshana.1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tool:</h3>
-## Languages and Tools 
+<h2 align="left">Languages and Tool:</h2>
 <div>
 
 ### Programming Languages:

@@ -31,6 +31,11 @@
 |----------|----------|----------|----------|----------|
 |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/HTML.png" title="HTML"  alt="HTML" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/CSS.png" title="CSS"  alt="CSS" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/JavaScript.png" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/php_PNG36.png" title="PHP" alt="PHPt" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/NodeJS.png" title="node" alt="node" width="55" height="55"/> |
 
+### Database Management:
+| My SQL | Microsoft SQL Server | MongoDB |
+|----------|----------|----------|
+|  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/micro.png" title="SQL"  alt="SQL" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mysql.png" title="SQLS"  alt="SQLS" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mongo.png" title="mongo" alt="mongo" width="55" height="55"/> |
+
 </div>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>&nbsp; &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp; &nbsp; 

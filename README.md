@@ -20,21 +20,7 @@
 <h3 align="left">Languages and Tool:</h3>
 ## Languages and Tools 
 <div>
-  
-### Programming Languages:
-| C# | Java | Python |
-|----------|----------|----------|
-|  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/c%23.png" title="C#"  alt="C#" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/java.png" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/Python.png" title="Python" alt="Python" width="55" height="55"/> |
 
-### Web Development:
-| HTML | CSS | JavaScript | PHP | NODE JS |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/HTML.png" title="HTML"  alt="HTML" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/CSS.png" title="CSS"  alt="CSS" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/JavaScript.png" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/php_PNG36.png" title="PHP" alt="PHPt" width="55" height="55"/> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/NodeJS.png" title="node" alt="node" width="55" height="55"/> |
-
-### Database Management:
-| My SQL | Microsoft SQL Server | MongoDB |
-|----------|----------|----------|
-|  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mysql.png" title="SQL"  alt="SQL" width="55" height="55"/> |  <center><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/micro.png" title="SQLS"  alt="SQLS" width="55" height="55"/></center> |  <img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/mongo.png" title="mongo" alt="mongo" width="55" height="55"/> |
 ### Programming Languages:
 <table>
   <tr>

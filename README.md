@@ -123,7 +123,7 @@
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=niroshana-98&show_icons=true&theme=vision-friendly-dark">
-  <p><img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=niroshana-98&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="niroshana-98" /></p>
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=niroshana-98&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="niroshana-98" />
 </p>
 
 

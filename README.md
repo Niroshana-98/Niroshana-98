@@ -136,4 +136,4 @@
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niroshana-98&show_icons=true&locale=en" alt="niroshana-98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niroshana-98&" alt="niroshana-988" /></p>

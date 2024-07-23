@@ -129,11 +129,9 @@
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=niroshana-98&style=for-the-badge&color=orange" alt=""/>
+  <p><img align="left" width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=niroshana-98&show_icons=true&locale=en&layout=compact" alt="niroshana-98" /></p>
 </div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niroshana-98&" alt="niroshana-988" /></p>

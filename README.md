@@ -94,17 +94,6 @@
   </tr>
 </table>
 
-### Graphic & Multimedia:
-<table>
-  <tr>
-    <th>Photoshop</th>
-    <th>Filmora</th>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/photo.png" title="SQL" alt="SQL" width="55" height="55"/></td>
-    <td style="text-align:center;"><img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/filmora_logo.png" title="SQLS" alt="SQLS" width="55" height="55"/></td>
-  </tr>
-</table>
 
 </div>
 
